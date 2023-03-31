@@ -19,7 +19,7 @@ function Contact() {
                     aria-label="resume"
                     target="_blank"
                     rel="noreferrer" 
-                    href="https:github.com/achiever-cosg/">
+                    href="https://drive.google.com/file/d/1qoa9BVV-XOHFKtXbecUovbUYny41rg4p/view?usp=share_link">
                     See My Resume
                   </a>
                 </div>
