@@ -45,7 +45,7 @@ function Projects() {
                 techno1="HTML"
                 techno2="CSS"
                 code="https://github.com/Achiever-cosg/ShopVerse"
-                demo="https://shopverse-achiever-cosg.vercel.app/"
+                demo="https://shopverse.vercel.app/"
                 scrollY="-82%"
                 icon="🛒"
               />
