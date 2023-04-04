@@ -19,7 +19,7 @@ function Contact() {
                     aria-label="resume"
                     target="_blank"
                     rel="noreferrer" 
-                    href="https://drive.google.com/file/d/1MpAKgbm1HdeMcod9ZXghIC93GsbTlOkq/view?usp=share_link">
+                    href="https://drive.google.com/file/d/1GrTkSFBSKBnuIK0FrgfbgxSDgIraBwLD/view?usp=share_link">
                     See My Resume
                   </a>
                 </div>
