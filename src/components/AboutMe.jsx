@@ -18,12 +18,12 @@ function AboutMe() {
             <div className="text-side">
               <h4>About me</h4>
               <h3>
-                A dedicated Full-Stack Developer <br /> based in Kolkata, India
+                A dedicated Front-End React Developer <br /> based in Kolkata, India
                 📍
               </h3>
               <p>
-                As a Junior Full-Stack Developer, I possess an impressive arsenal
-                of skills in HTML, CSS, JavaScript, React, Node, MongodB and SCSS.
+                As a Junior Front-End Developer, I possess an impressive arsenal
+                of skills in HTML, CSS, JavaScript, React, Node and SCSS.
                 I excel in designing and maintaining responsive websites that
                 offer a smooth user experience. My expertise lies in crafting
                 dynamic, engaging interfaces through writing clean and optimized
