@@ -20,7 +20,7 @@ function Hero() {
                 <h1>Full-Stack MERN Developer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Samshul Ajam. A passionate Full-Stack
+                  Hi, I'm Samshul Ajam. A passionate Front-End React
                   Developer based in Kolkata, India. 📍
                 </p>
                 <span>
