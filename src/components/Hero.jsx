@@ -17,10 +17,10 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Full-Stack MERN Developer</h1>
+                <h1>Full-End React Developer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Samshul Ajam. A passionate Front-End React
+                  Hi, I'm Samshul Ajam. A passionate Front-end React
                   Developer based in Kolkata, India. 📍
                 </p>
                 <span>
