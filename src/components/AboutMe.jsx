@@ -18,7 +18,7 @@ function AboutMe() {
             <div className="text-side">
               <h4>About me</h4>
               <h3>
-                A dedicated Front-End React Developer <br /> based in Kolkata, India
+                A dedicated Front-end Developer <br /> based in Kolkata, India
                 📍
               </h3>
               <p>
